@@ -1,0 +1,30 @@
+
+{
+  "project_info": {
+    "project_number": "708982864267",
+    "project_id": "authentication-app-3b226",
+    "storage_bucket": "authentication-app-3b226.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:708982864267:android:a164e38d31a9b86704578e",
+        "android_client_info": {
+          "package_name": "com.example.authentication_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "${dotenv.env['GOOGLE_API_KEY']}"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
